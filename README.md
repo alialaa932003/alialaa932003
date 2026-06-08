@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Alaa Eldin</h1>
 
-<!--
-**alialaa932003/alialaa932003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | React | Next.js | TypeScript
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Frontend Developer with experience building LMS, E-commerce, and Management Systems.
+- Passionate about React ecosystem and modern web technologies.
+- Interested in performance optimization, architecture, and user experience.
+- Currently learning Backend Development with Node.js and Express.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+
+### Backend
+- Node.js
+- Express.js
+- Laravel APIs
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Figma
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 EHR System
+Electronic Health Record System developed as a graduation project.
+
+### 💬 Majlis
+Real-time communication platform with Socket.IO.
+
+### 📚 LMS Dashboard
+Dashboard with custom PDF annotation and educational management features.
+
+### 🕋 Hajj Management System
+Management platform for Hajj operations and PDF reporting.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
