@@ -28,8 +28,8 @@ Building scalable web applications with React, Next.js, TypeScript and modern fr
 
 ## 🏆 Featured Projects
 
-### 🏥 EHR System
-Graduation project focused on managing electronic health records with modern web technologies.
+### 🏥 Hajj Management System
+Developed and maintained a comprehensive management dashboard for Hajj operations and pilgrimage logistics.
 
 ### 📚 Zorwah LMS
 Monorepo LMS platform built with React and TanStack Start featuring courses, exams, certificates and admin dashboards.
