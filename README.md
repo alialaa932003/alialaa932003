@@ -61,14 +61,7 @@ Multi-role commerce platform connecting suppliers, supermarkets and drivers.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alialaa932003&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa932003&layout=compact" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
