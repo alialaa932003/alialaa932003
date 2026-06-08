@@ -1,61 +1,77 @@
 <h1 align="center">Hi 👋, I'm Ali Alaa Eldin</h1>
 
 <h3 align="center">
-Frontend Developer | React | Next.js | TypeScript
+Software Engineer | Frontend Developer
 </h3>
+
+<p align="center">
+Building scalable web applications with React, Next.js, TypeScript and modern frontend technologies.
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,redux,jest,docker,git,github" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- Frontend Developer with experience building LMS, E-commerce, and Management Systems.
-- Passionate about React ecosystem and modern web technologies.
-- Interested in performance optimization, architecture, and user experience.
-- Currently learning Backend Development with Node.js and Express.
+- 💼 1.5+ years of professional experience
+- ⚛️ Specialized in React.js & Next.js
+- 🏗️ Built SaaS, LMS, E-commerce and Booking Systems
+- 📚 Currently pursuing ITI 9-Month Diploma (Web & UI Development)
+- 🌱 Expanding into Full-Stack Development with Node.js
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Redux Toolkit
-- React Query
-
-### Backend
-- Node.js
-- Express.js
-- Laravel APIs
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Figma
-
----
-
-## 🌟 Featured Projects
+## 🏆 Featured Projects
 
 ### 🏥 EHR System
-Electronic Health Record System developed as a graduation project.
+Graduation project focused on managing electronic health records with modern web technologies.
+
+### 📚 Zorwah LMS
+Monorepo LMS platform built with React and TanStack Start featuring courses, exams, certificates and admin dashboards.
 
 ### 💬 Majlis
-Real-time communication platform with Socket.IO.
+Real-time communication platform powered by Socket.IO with chat and collaboration features.
 
-### 📚 LMS Dashboard
-Dashboard with custom PDF annotation and educational management features.
+### 🚗 Masarco Vehicle Booking
+Multi-role booking platform supporting suppliers, companies, employees and administrators.
 
-### 🕋 Hajj Management System
-Management platform for Hajj operations and PDF reporting.
+### 🛒 Zeed Platform
+Multi-role commerce platform connecting suppliers, supermarkets and drivers.
 
 ---
 
-## 📫 Connect With Me
+## 💼 Professional Experience
 
-- LinkedIn
-- Email
+### Frontend Developer @ O-Projects
+- Hajj Management System
+- LMS Dashboard with PDF Annotation
+- E-commerce Platforms
+- WooCommerce Integrations
+
+### Frontend Developer @ Zircon Tech
+- LMS Development
+- Exam Systems
+- Educator Dashboards
+- Attendance Tracking
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alialaa932003&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa932003&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+</p>
