@@ -66,5 +66,5 @@ Multi-role commerce platform connecting suppliers, supermarkets and drivers.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+<a href="https://linkedin.com/in/ali-alaa-eldin">LinkedIn</a>
 </p>
