@@ -18,7 +18,7 @@ Building scalable web applications with React, Next.js, TypeScript and modern fr
 
 ## 🚀 About Me
 
-- 💼 1.5+ years of professional experience
+- 💼 2+ years of professional experience
 - ⚛️ Specialized in React.js & Next.js
 - 🏗️ Built SaaS, LMS, E-commerce and Booking Systems
 - 📚 Currently pursuing ITI 9-Month Diploma (Web & UI Development)
